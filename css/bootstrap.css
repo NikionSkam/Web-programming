@@ -193,7 +193,7 @@ th {
   *,
   *:before,
   *:after {
-    color: #000 !important;
+    color: #6A5ACD !important;
     text-shadow: none !important;
     background: transparent !important;
     -webkit-box-shadow: none !important;
@@ -240,24 +240,24 @@ th {
     page-break-after: avoid;
   }
   select {
-    background: #fff !important;
+    background: #7B68EE !important;
   }
   .navbar {
     display: none;
   }
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color: #000 !important;
+    border-top-color: #7B68EE !important;
   }
   .label {
-    border: 1px solid #000;
+    border: 1px solid #7B68EE;
   }
   .table {
     border-collapse: collapse !important;
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #7B68EE !important;
   }
   .table-bordered th,
   .table-bordered td {
